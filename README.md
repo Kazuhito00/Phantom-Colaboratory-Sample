@@ -1,5 +1,5 @@
 # Phantom-Colaboratory-Sample
-Colaboratory上で[allenai/Molmo](https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19)をお試しするサンプルです。<bR>
+Colaboratory上で[ByungKwanLee/Phantom](https://github.com/ByungKwanLee/Phantom)をお試しするサンプルです。<bR>
 
 > [!NOTE]
 > ランタイムタイプはL4 GPU以上必須です
