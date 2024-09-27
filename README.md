@@ -12,7 +12,7 @@ Colaboratory上で[ByungKwanLee/Phantom](https://github.com/ByungKwanLee/Phantom
 Colaboratoryでノートブックを開き、上から順に実行してください。
 
 # License 
-Molmo-Colaboratory-Sample is under [MIT license](LICENSE).
+Phantom-Colaboratory-Sample is under [MIT license](LICENSE).
 
 # License(Image)
 サンプル実行用に格納している画像は、[ぱくたそ](https://www.pakutaso.com)様の[三越と大丸がある天神の交差点](https://www.pakutaso.com/20210618154post-35149.html)を利用しています。
